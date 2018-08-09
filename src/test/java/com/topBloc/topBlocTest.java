@@ -8,7 +8,7 @@ public class topBlocTest {
 
 	@Test
 	public void test() {
-		topBlocCodeC testCode = new topBlocCodeC();
+		topBlocCode testCode = new topBlocCode();
 		testCode.readFiles();
 	}
 

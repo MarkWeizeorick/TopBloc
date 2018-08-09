@@ -20,7 +20,7 @@ import org.json.JSONObject;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class topBlocCodeC {
+public class topBlocCode {
 	public static final String dataFile_1 = "/Data1.xlsx";
 	public static final String dataFile_2 = "/Data2.xlsx";
 	
